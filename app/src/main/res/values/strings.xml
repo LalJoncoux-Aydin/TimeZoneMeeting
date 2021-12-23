@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">UtilityApp2</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_app">TriMeeting</string>
+    <string name="floating_button_desc">GroupAdding</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="create_a_meeting">Create a meeting</string>
+    <string-array name="utc_array">
+        <item>UTC-12</item>
+        <item>UTC-11</item>
+        <item>UTC-10</item>
+        <item>UTC-9</item>
+        <item>UTC-8</item>
+        <item>UTC-7</item>
+        <item>UTC-6</item>
+        <item>UTC-5</item>
+        <item>UTC-4</item>
+        <item>UTC-3</item>
+        <item>UTC-2</item>
+        <item>UTC-1</item>
+        <item>UTC+0</item>
+        <item>UTC+1</item>
+        <item>UTC+2</item>
+        <item>UTC+3</item>
+        <item>UTC+4</item>
+        <item>UTC+5</item>
+        <item>UTC+6</item>
+        <item>UTC+7</item>
+        <item>UTC+8</item>
+        <item>UTC+9</item>
+        <item>UTC+10</item>
+        <item>UTC+11</item>
+        <item>UTC+12</item>
+        <item>UTC+13</item>
+        <item>UTC+14</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="new_member_name">Name</string>
+    <string name="select_an_utc">Select an UTC:</string>
+    <string name="create_member">Create member</string>
+    <string name="create_member_title">Create member</string>
+    <string name="new_meeting_title">Title</string>
+    <string name="new_meeting_description">Description</string>
+    <string name="select_a_starting_time">Select a starting time:</string>
+</resources>
